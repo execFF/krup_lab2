@@ -1,3 +1,0 @@
-[submodule "my_submodule"]
-	path = my_submodule
-	url = https://github.com/execFF/krup_lab2submodule.git
